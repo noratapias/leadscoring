@@ -1,4 +1,4 @@
-package main.scala
+package org.template.leadscoring
 
 import io.prediction.controller.P2LAlgorithm
 import io.prediction.controller.Params
